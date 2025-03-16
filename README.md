@@ -9,7 +9,7 @@ This repository contains data documentation and code for the analysis in the man
 
 ## Data Documentation
 The `data_documentation/` directory contains the following files:
-- `Data_Documentation.xlsx` - Contains the list of input datasets and years of data used in the analysis; steps to identify DDI exposure among beneficiaries, description of key variables in source datasets and some derived datasets.
+- `Data_Documentation.xlsx` - Contains the list of input datasets and years of data used in the analysis; steps to identify DDI exposure among beneficiaries; description of key variables in source datasets and some derived datasets.
 - `DDIs_List.xlsx` - Includes the names of drugs to be included for each drug interaction.
 
 ## Code
