@@ -25,8 +25,8 @@ The `code/` directory contains the following programs:
   - **eTable 2**: Potential Drug Interactions Among Nursing Home Residents Identified by the 2023 Beers Criteria, 2018-2020.
   - **eTable 3**: Potential Drug Interactions Among Nursing Home Residents Identified by Capiau et al, 2018-2020.
 - `6_eTable4-5.sas` - Generating output for the following tables:
-  - **eTable 4**: Top 50 Individual Drug Combinations Under “Concomitant Use of >=3 CNS-Active Drugs” (Anrys et al).
-  - **eTable 5**: Top 50 Individual Drug Combinations Under “Any Combination of >=3 CNS-Active Drugs” (2023 Beers Criteria).
+  - **eTable 4**: Top 50 Individual Drug Combinations Under “Concomitant Use of at least CNS-Active Drugs” (Anrys et al).
+  - **eTable 5**: Top 50 Individual Drug Combinations Under “Any Combination of at least CNS-Active Drugs” (2023 Beers Criteria).
 
 Programs were run in sequence to produce the study findings. Cohort creation programs and programs used to produce Table 1 have not been included; a broad description of these steps can be found in the manuscript.
 
