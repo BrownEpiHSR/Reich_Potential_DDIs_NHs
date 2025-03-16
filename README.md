@@ -2,15 +2,15 @@
 This repository contains data documentation and code for the analysis in the manuscript titled "Prevalence and Duration of Potential Drug Interactions Among US Nursing Home Residents, 2018-2020."
 
 ## Repository Contents
-- `data_documentation/` - Contains files describing the data sources, key variables, and <insert additional details here>.
+- `data_documentation/` - Contains files describing the data sources, key variables, and steps to identify DDI exposure.
 - `code/` - The programs used for data management and analysis.
 - `LICENSE` - The license under which this repository is shared.
 - `README.md` - This file, providing an overview of the repository.
 
 ## Data Documentation
 The `data_documentation/` directory contains the following files:
-- `1_file_name.xlsx` - <insert short description of file here>
-- `2_file_name.xlsx` - <insert short description of file here>
+- `Data_Documentation.xlsx` - Contains the list of input datasets and years of data used in the analysis; steps to identify DDI exposure among beneficiaries, description of key variables in source datasets and some derived datasets.
+- `DDIs_List.xlsx` - Includes the names of drugs to be included for each drug interaction.
 
 ## Code
 The `code/` directory contains the following programs:
