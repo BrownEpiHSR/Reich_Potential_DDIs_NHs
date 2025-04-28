@@ -30,5 +30,5 @@ The `code/` directory contains the following programs:
 
 Programs were run in sequence to produce the study findings. Cohort creation programs and programs used to produce Table 1 have not been included; a broad description of these steps can be found in the manuscript.
 
-Additional information (and code) for identifying nursing home time with observable Part D prescription drug data can be found in the upcoming publication from Harris et al. "Identifying observable medication time for US nursing home residents using Medicare claims: a tutorial and case study" (doi:10.5281/zenodo.15012812). 
+Additional information (and code) for identifying nursing home time with observable Part D prescription drug data can be found in the upcoming publication from Harris et al. "Identifying observable medication time for US nursing home residents using Medicare claims: a tutorial and case study" (doi.org/10.5281/zenodo.15012812). 
 
