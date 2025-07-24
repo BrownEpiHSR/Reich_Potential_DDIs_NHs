@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Reich"
+  given-names: "Laura"
+  orcid: "https://orcid.org/0009-0003-8424-2276"
+title: "Reich_Potential_DDIs_NHs"
+doi: 10.5281/zenodo.1234
+date-released: 2025-07-24
+url: "https://github.com/BrownEpiHSR/Reich_Potential_DDIs_NHs"
