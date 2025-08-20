@@ -28,7 +28,7 @@ The `code/` directory contains the following programs:
   - **Table S2**: Potential Drug-Drug Interactions Among Nursing Home Residents Identified by Anrys et al., 2018-2020.
   - **Table S3**: Potential Drug-Drug Interactions Among Nursing Home Residents Identified by the 2023 AGS Beers Criteria®, 2018-2020.
   - **Table S4**: Potential Drug-Drug Interactions Among Nursing Home Residents Identified by Capiau et al., 2018-2020.
-- `6_eTable5-6.sas` - Generating output for the following tables:
+- `6_TableS5-S6.sas` - Generating output for the following tables:
   - **Table S5**: Top 50 Individual Drug Combinations Under “Concomitant Use of At Least CNS-Active Drugs” (Anrys et al.).
   - **Table S6**: Top 50 Individual Drug Combinations Under “Any Combination of At Least CNS-Active Drugs” (2023 AGS Beers Criteria®).
 
