@@ -5,6 +5,7 @@ This repository contains data documentation and code for the analysis in the man
 - `data_documentation/` - Contains files describing the data sources, key variables, and steps to identify drug-drug interaction (DDI) exposure among beneficiaries in the primary and stability analysis.
 - `code/` - The programs used for data management and analysis.
 - `LICENSE` - The license under which this repository is shared.
+- `citation.cff` - Citation for the repository.
 - `README.md` - This file, providing an overview of the repository.
 
 ## Data Documentation
@@ -23,13 +24,13 @@ The `code/` directory contains the following programs:
 - `3b_Create_DDI_Exposure_Eps_Stability.sas` - Creating continuous episodes of exposure for each potential drug-drug interaction in the stability analysis.
 - `4_Table2.sas` - Generating output for **Table 2**: Top 12 Potential Drug-Drug Interactions Among Nursing Home Residents, 
    2018-2020 (N = 485,251 Residents).
-- `5_eTable2-4.sas` - Generating output for the following tables:
-  - **eTable 2**: Potential Drug-Drug Interactions Among Nursing Home Residents Identified by Anrys et al., 2018-2020.
-  - **eTable 3**: Potential Drug-Drug Interactions Among Nursing Home Residents Identified by the 2023 AGS Beers Criteria®, 2018-2020.
-  - **eTable 5**: Potential Drug-Drug Interactions Among Nursing Home Residents Identified by Capiau et al., 2018-2020.
+- `5_TableS2-S4.sas` - Generating output for the following tables:
+  - **Table S2**: Potential Drug-Drug Interactions Among Nursing Home Residents Identified by Anrys et al., 2018-2020.
+  - **Table S3**: Potential Drug-Drug Interactions Among Nursing Home Residents Identified by the 2023 AGS Beers Criteria®, 2018-2020.
+  - **Table S4**: Potential Drug-Drug Interactions Among Nursing Home Residents Identified by Capiau et al., 2018-2020.
 - `6_eTable5-6.sas` - Generating output for the following tables:
-  - **eTable 5**: Top 50 Individual Drug Combinations Under “Concomitant Use of At Least CNS-Active Drugs” (Anrys et al.).
-  - **eTable 6**: Top 50 Individual Drug Combinations Under “Any Combination of At Least CNS-Active Drugs” (2023 AGS Beers Criteria®).
+  - **Table S5**: Top 50 Individual Drug Combinations Under “Concomitant Use of At Least CNS-Active Drugs” (Anrys et al.).
+  - **Table S6**: Top 50 Individual Drug Combinations Under “Any Combination of At Least CNS-Active Drugs” (2023 AGS Beers Criteria®).
 
 Programs were run in sequence to produce the study findings. Cohort creation programs and programs used to produce Table 1 have not been included; a broad description of these steps can be found in the manuscript.
 
