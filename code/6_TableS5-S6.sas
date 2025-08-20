@@ -4,8 +4,8 @@ Among US Nursing Home Residents, 2018-2020
 
 Program Purpose: 
 Create output for the following tables:
-Table S5: Top 50 Individual Drug Combinations Under ìConcomitant Use of >=3 CNS-Active Drugsî (Anrys et al.).			
-Table S6: Top 50 Individual Drug Combinations Under ìAny Combination of >=3 CNS-Active Drugsî (2023 AGS Beers Criteria(R)).			
+Table S5: Top 50 Individual Drug Combinations Under ‚ÄúConcomitant Use of >=3 CNS-Active Drugs‚Äù (Anrys et al.).			
+Table S6: Top 50 Individual Drug Combinations Under ‚ÄúAny Combination of >=3 CNS-Active Drugs‚Äù (2023 AGS Beers Criteria(R)).			
 
 Programmer: Laura Reich   
  
